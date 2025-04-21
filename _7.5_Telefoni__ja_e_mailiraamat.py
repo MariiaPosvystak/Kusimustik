@@ -45,3 +45,5 @@ while True:
     "8. - Saada e-kiri kontaktile.")
     try:
         valik=input("")
+    except:
+        print("")
